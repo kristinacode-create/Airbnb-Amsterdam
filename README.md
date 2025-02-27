@@ -56,15 +56,6 @@ private/shared rooms.
 
 • Strict cancellation policies may lower booking rates.
 
-# Conclusion & Next Steps 
-This analysis provides a foundational understanding of Amsterdam’s  Airbnb market. Further studies could include: 
-
-• Trend analysis over multiple years 
-
-• Comparative analysis with other cities 
-
-• Machine learning models to predict pricing based on amenities & location 
-
 This project showcases how structured data analysis can provide meaningful insights into short-term rental markets.  
 
 ## Tableau project
